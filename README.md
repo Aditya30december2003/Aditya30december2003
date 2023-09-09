@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <img src="Github-image/space.webp" alt="" width="1000" height="500">
 <h2 align="center">Frontend Developer Seeking Internship Opportunities: Crafting the Future, One Line of Code at a Time</h2>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif)">
 
 <p align="left"> <a href="https://twitter.com/adityaj47361990" target="blank"><img src="https://img.shields.io/twitter/follow/adityaj47361990?logo=twitter&style=for-the-badge" alt="adityaj47361990" /></a> </p>
 
