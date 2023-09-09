@@ -3,10 +3,6 @@
 <h2 align="center">Frontend Developer Seeking Internship Opportunities: Crafting the Future, One Line of Code at a Time</h2>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya30december2003&label=Profile%20views&color=0e75b6&style=flat" alt="aditya30december2003" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya30december2003" alt="aditya30december2003" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/adityaj47361990" target="blank"><img src="https://img.shields.io/twitter/follow/adityaj47361990?logo=twitter&style=for-the-badge" alt="adityaj47361990" /></a> </p>
 
 - 🔭 I’m currently working on [BatGPT](https://aditya30december2003.github.io/BatGPT/)
