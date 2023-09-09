@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<img src="Github-image/space.webp" alt="" width="1500" height="500">
+<img src="Github-image/space.webp" alt="" width="1000" height="500">
 <h2 align="center">Frontend Developer Seeking Internship Opportunities: Crafting the Future, One Line of Code at a Time</h2>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
