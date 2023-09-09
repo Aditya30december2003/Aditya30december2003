@@ -1,7 +1,7 @@
 /*[![MasterHead]()]*/
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">Frontend Developer Seeking Internship Opportunities: Crafting the Future, One Line of Code at a Time</h3>
-<img src="https://64.media.tumblr.com/722fb07f13764fb24e8b3739d20c2c9c/ff7b7fd2c7453fa1-ff/s1280x1920/03f3388017974120a109da5a6c1df75b57c6dcf5.gif" alt="">
+<img src="https://64.media.tumblr.com/722fb07f13764fb24e8b3739d20c2c9c/ff7b7fd2c7453fa1-ff/s1280x1920/03f3388017974120a109da5a6c1df75b57c6dcf5.gif" alt="" width="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya30december2003&label=Profile%20views&color=0e75b6&style=flat" alt="aditya30december2003" /> </p>
 
