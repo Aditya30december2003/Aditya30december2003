@@ -3,8 +3,8 @@
 <h2 align="center">Frontend Developer Seeking Internship Opportunities: Crafting the Future, One Line of Code at a Time</h2>
 <img align="right" alt="Coding" width="400"src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 [![An image of @aditya30december2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditya30december2003)](https://holopin.io/@aditya30december2003)
-<img src="https://holopin.me/aditya30december2003" alt="" width="1000" height="300">
-<img src="https://holopin.io/@aditya30december2003" alt="" width="1000" height="300">
+<!-- <img src="https://holopin.me/aditya30december2003" alt="" width="1000" height="300">
+<img src="https://holopin.io/@aditya30december2003" alt="" width="1000" height="300"> -->
 
 <p align="left"> <a href="https://twitter.com/adityaj47361990" target="blank"><img src="https://img.shields.io/twitter/follow/adityaj47361990?logo=twitter&style=for-the-badge" alt="adityaj47361990" /></a> </p>
 
