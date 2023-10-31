@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **adityasmjain@gmail.com**
 
-- 📄 Know about my experiences [https://aditya30december2003.github.io/CV_Resume/](https://aditya30december2003.github.io/CV_Resume/)
+- 📄 Know about my experiences [Aditya Jain-Portfolio](https://aditya30december2003.github.io/Personal_Portfolio/)
 
 - ⚡ Fun fact **I am good at maths and have a sense of humor**
 
