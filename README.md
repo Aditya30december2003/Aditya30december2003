@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://aditya30december2003.github.io/Personal-Portfolio-2/](https://aditya30december2003.github.io/Personal-Portfolio-2/)
+- 👨‍💻 All of my projects are available at [Adity Jain-Portfolio](https://aditya30december2003.github.io/Personal_Portfolio/)
 
 - 💬 Ask me about **Gsap, TailwindCss**
 
