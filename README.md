@@ -26,7 +26,6 @@
 <p align="left">
 <a href="https://twitter.com/adityaj47361990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityaj47361990" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya-jain-065484226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-jain-065484226" height="30" width="40" /></a>
-<h3 align="left">Competitive Coding Platforms :</h3>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/mu219301361_5g" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" width="50"></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/leo10demigod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/leo10demigod" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/leo100demigod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/leo100demigod/" height="30" width="40" /></a>
