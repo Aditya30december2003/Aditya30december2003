@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/adityaj47361990" target="blank"><img src="https://img.shields.io/twitter/follow/adityaj47361990?logo=twitter&style=for-the-badge" alt="adityaj47361990" /></a> </p>
 
-- 🔭 I’m currently working on [LawGPT](https://aditya30december2003.github.io/BatGPT/)
+- 🔭 I’m currently working on [hostelEats](https://aditya30december2003.github.io/Food_Delivery_App/)
 
 - 🌱 I’m currently learning **React.js**
 
