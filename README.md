@@ -3,8 +3,7 @@
 <h2 align="center">Frontend Developer Seeking Internship Opportunities: Crafting the Future, One Line of Code at a Time</h2>
 <img align="right" alt="Coding" width="400"src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya30december2003&label=Profile%20views&color=0e75b6&style=flat" alt="aditya30december2003" /> </p>
 
